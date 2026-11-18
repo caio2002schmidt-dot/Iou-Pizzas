@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://caio2002schmidt-dot.github.io/Iou-Pizzas/sitemap.xml
+Sitemap: https://www.ioupizzas.com.br/sitemap.xml
